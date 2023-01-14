@@ -1,0 +1,13 @@
+.change-bg-menu{
+    background-color:#198754;
+    border:none;
+    border-radius: 0;
+}
+
+.dropdown-item:hover {
+    background-color:darkgreen;
+}
+
+form{
+    font-family: 'Times New Roman', Times, serif;  
+}
